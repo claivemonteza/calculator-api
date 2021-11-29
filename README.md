@@ -15,9 +15,9 @@ This project is a calculator rest api which contains 4 endpoints that allows for
 - Java
 
 ## API
-The API base URL is https://calculator-rest-api.herokuapp.com/ and can be used to access the following endpoints :
+The API base URL is https://calculator-rest-api.herokuapp.com and can be used to access the following endpoints :
 
-### Sum (GET)
+### [Sum (GET)](https://calculator-rest-api.herokuapp.com/calculator/sum?x=12&y=0.2)
 - endpoint -```/calculator/sum?x=12&y=0.2```
 
 ### Subtract (GET)
